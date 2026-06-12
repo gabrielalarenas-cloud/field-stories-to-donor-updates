@@ -1,5 +1,5 @@
 # Sample NGO Scenario
-## Fictional pilot partner: BrightPath Learning Initiative
+## Fictional pilot partner: LearningStar Initiative  
 
 ## Disclaimer
 
@@ -9,7 +9,7 @@ No real personal data, beneficiary images, or field staff recordings are used.
 
 ## Organization profile
 
-**Organization name:** BrightPath Learning Initiative  
+**Organization name:** LearningStar Initiative  
 **Headquarters:** Toronto, Canada  
 **Program regions:** Ecuador, Kenya, and Nepal  
 **Program focus:** Girls' education and after-school literacy support  
@@ -19,7 +19,7 @@ No real personal data, beneficiary images, or field staff recordings are used.
 
 ## The operational context
 
-BrightPath Learning Initiative runs after-school literacy programs through local partner organizations.
+LearningStar Initiative runs after-school literacy programs through local partner organizations.
 
 Each month, field coordinators send program updates to the HQ fundraising and communications team.
 
