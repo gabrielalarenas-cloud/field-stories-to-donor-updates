@@ -1,109 +1,74 @@
 # Field Stories to Donor Updates
-
 ## A responsible multilingual storytelling workflow for NGOs using ElevenLabs
 
-### Project overview
+This repository is a lightweight proof of concept exploring how NGOs could use ElevenLabs to transform consent-based field updates into timely, multilingual donor communications.
 
-This is a lightweight proof of concept exploring how NGOs could use ElevenLabs to turn consent-based field updates into timely, multilingual donor communications.
+The goal is not to automate human storytelling or fabricate emotional content. The goal is to design a human-reviewed workflow that helps NGOs transform raw field updates into clear, multilingual donor communications while reducing operational burden on field teams.
 
-Many North American and European NGOs work through field teams across Africa, LATAM, and Asia. These teams often have the closest access to program updates, community stories, and local context, but they are usually not communications specialists. They staff is busy delivering the actual work.
+## Why this project exists
 
-As a result, donor updates often become delayed, fragmented, difficult to translate, or emotionally disconnected from what is happening on the ground. Field staff also often feel pressured to collect content for headquarters on top of their core responsibilities.
+Many NGOs operating across Africa, LATAM, and Asia have field teams who are closest to the work and the communities served. These teams often provide the raw material for donor updates: photos, videos, voice notes, beneficiary quotes, program updates, and local context.
 
-This project explores how AI voice and dubbing tools could help bridge that gap responsibly.
+But field teams are usually not communications teams. They are delivering programs, coordinating with local partners, supporting communities, solving problems, and adapting to changing conditions on the ground.
 
-The goal is not to automate human storytelling or fabricate emotional content. The goal is to design a human-reviewed workflow that helps NGOs transform raw, consent-based field updates into clear, multilingual donor communications while reducing operational burden on field teams.
+This creates a recurring operational gap:
 
----
+- Field updates are delayed or inconsistent
+- HQ teams struggle to translate raw updates into donor-ready storytelling
+- Language barriers slow down communication
+- Field staff feel extra pressure to produce polished content
+- Donor materials can lose freshness, context, and authenticity
+- Consent, dignity, and safeguarding can become harder to manage without a clear workflow
 
-## Use case
+This project explores how ElevenLabs voice and dubbing tools could support a more responsible and scalable process.
 
-A field coordinator records a short update in their own language using a phone. The update includes basic program progress, local context, and approved story elements.
+## What this repository includes
 
-The headquarters team then uses a structured workflow to:
+- A problem brief describing the field-to-donor storytelling gap
+- A sample NGO scenario using fictional program data
+- A multilingual demo script in English, Spanish, and French
+- A simple ElevenLabs-based narration and dubbing workflow
+- A partner deployment model for NGOs
+- A consent and safeguarding checklist
+- A 30/60/90-day rollout plan
+- Suggested success metrics for adoption and impact
 
-1. Review the update for consent, safety, and accuracy
-2. Transcribe and translate the content
-3. Convert the raw update into a donor-ready narrative
-4. Generate multilingual narration using ElevenLabs
-5. Add captions and visuals using ElevenLabs
-6. Publish the final update after human review
-7. Track donor engagement, field staff effort, and content turnaround time
+## Important ethical boundaries
 
----
+This proof of concept uses fictional NGO data and fictional program examples.
 
-## Why this matters
+It does not use real beneficiary stories, real field staff voices, real photos from vulnerable communities, or unauthorized voice cloning.
 
-For NGOs, timely and authentic communication can directly affect donor trust, fundraising performance, and long-term partnership health.
+The recommended workflow requires human review, consent checks, and dignity-first storytelling before any donor-facing material is published.
 
-For field teams, better workflows can reduce the pressure to produce polished donor content while they are managing program delivery.
+## Repository structure
 
-For donors, multilingual and more frequent updates can create a clearer understanding of how their support is being used.
+```text
+01_problem/
+  problem_brief.md
+  sample_ngo_scenario.md
 
-For beneficiaries and local communities, responsible safeguards are necessary to ensure that stories are shared with dignity, consent, and accuracy.
+02_demo_scripts/
+  demo_script_en.md
+  demo_script_es.md
+  demo_script_fr.md
 
----
+03_elevenlabs_workflow/
+  narration_and_dubbing_workflow.md
 
-## What I built
+04_partner_deployment_model/
+  partner_deployment_model.md
+  rollout_plan_30_60_90.md
 
-This repository includes:
+05_ethics_and_safeguarding/
+  consent_and_safeguarding_checklist.md
 
-* A problem brief describing the field-to-donor storytelling gap
-* A sample NGO scenario using fictional program data
-* A multilingual demo script in English, Spanish, and French
-* A simple ElevenLabs-based narration and dubbing workflow
-* A partner deployment model for NGOs
-* A consent and safeguarding checklist
-* A 30/60/90-day rollout plan
-* Suggested success metrics for adoption and impact
+06_metrics/
+  success_metrics.md
+```
 
----
+## Project positioning
 
-## ElevenLabs tools explored
+This repository was created as a proof of work for an Impact Strategy & Operations role.
 
-This concept is designed around the following ElevenLabs capabilities:
-
-* Text to Speech for creating natural narration from reviewed scripts
-* Dubbing for translating video or audio updates into multiple languages
-* Studio for assembling audio/video storytelling assets
-* Voice cloning only when the speaker owns the voice or has provided explicit consent
-
-For this proof of concept, I use fictional content and either my own voice or approved ElevenLabs voices. No real beneficiary data or unauthorized voice cloning is used.
-
----
-
-## Responsible AI principles
-
-This workflow is designed around five safeguards:
-
-1. Consent before storytelling
-2. Human review before publication
-3. No synthetic recreation of beneficiary voices without explicit permission
-4. Clear separation between raw field updates and donor-facing narrative edits
-5. Dignity-first storytelling that informs donors without exploiting emotion
-
----
-
-## Success metrics
-
-A pilot could be evaluated through:
-
-* Time from field update to donor-ready asset
-* Number of languages supported
-* Field staff hours saved
-* Donor update frequency
-* Donor engagement rate
-* Internal revision cycles
-* Consent completion rate
-* Partner adoption rate
-* Qualitative feedback from field and HQ teams
-
----
-
-## Why I created this
-
-I created this project as a proof of work for the ElevenLabs Impact Strategy & Operations role.
-
-My background is in strategic operations, partnerships, donor reporting, and cross-functional execution across international environments. I have worked in nonprofit, education, travel, real estate, and growth-stage operational contexts. I have been in advisory roles for NGOs in healthcare and projects focused on mental health. 
-
-This project reflects the type of work I am most interested in: turning a promising technology into a responsible, repeatable, real-world operating model.
+It demonstrates how a strategic operations and partnerships leader can take an AI capability and translate it into a responsible, repeatable operating model for real-world nonprofit deployment.
