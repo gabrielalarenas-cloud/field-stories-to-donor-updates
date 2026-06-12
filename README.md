@@ -104,6 +104,6 @@ A pilot could be evaluated through:
 
 I created this project as a proof of work for the ElevenLabs Impact Strategy & Operations role.
 
-My background is in strategic operations, partnerships, donor reporting, and cross-functional execution across international environments. I have worked in nonprofit, education, travel, real estate, and growth-stage operational contexts.
+My background is in strategic operations, partnerships, donor reporting, and cross-functional execution across international environments. I have worked in nonprofit, education, travel, real estate, and growth-stage operational contexts. I have been in advisory roles for NGOs in healthcare and projects focused on mental health. 
 
 This project reflects the type of work I am most interested in: turning a promising technology into a responsible, repeatable, real-world operating model.
