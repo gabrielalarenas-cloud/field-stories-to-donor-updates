@@ -72,3 +72,4 @@ The recommended workflow requires human review, consent checks, and dignity-firs
 This repository was created as a proof of work for an Impact Strategy & Operations role.
 
 It demonstrates how a strategic operations and partnerships leader can take an AI capability and translate it into a responsible, repeatable operating model for real-world nonprofit deployment.
+
