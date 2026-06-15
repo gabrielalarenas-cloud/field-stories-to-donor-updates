@@ -17,18 +17,15 @@ A single donor update can be produced manually. But a global NGO may need recurr
 
 The storyboard helps standardize what information is collected, how field updates are transformed, where consent is checked, how tone is preserved, when human review is required, what success metrics are tracked, and how multilingual assets are produced consistently.
 
-Creative Brief
-
+## Creative Brief
 
 From Field Update to Donor Story
 
-
-Concept
-
+### Concept
 A short visual proof of concept showing how an ElevenLabs-enabled workflow could help NGOs transform raw field updates into timely, multilingual donor communications while preserving human review, consent, dignity, and trust.
 The video should feel like a responsible AI deployment blueprint, not a promotional ad. The goal is to show how a real operational bottleneck between field teams, headquarters, and donors could be solved through a repeatable workflow.
 
-Strategic purpose
+### Strategic purpose
 
 This video is designed to position Gabriela as:
 - A GitHub-literate operator who can document a structured proof of work
@@ -37,25 +34,19 @@ This video is designed to position Gabriela as:
 - An operator who thinks beyond the demo and designs ethical, repeatable systems
 - A candidate who understands that for NGOs, trust is more important than speed
 
-Audience
-
+### Audience
 Primary audience: ElevenLabs hiring team for Impact Strategy & Operations / PartnershipsSecondary audience: nonprofit, education, healthcare, and social impact partners who could benefit from multilingual AI voice workflows
 
-Core message
-
+### Core message
 ElevenLabs can help NGOs transform raw field updates into multilingual donor communications, but the real value comes from the operating model around the technology: human review, consent, safeguarding, translation quality, and repeatable partner deployment.
 
-Tone
-
+### Tone
 Warm, credible, calm, and operationally mature.
 The video should feel human and hopeful, but not sentimental or manipulative. It should avoid poverty-focused imagery, exaggerated emotion, or overly dramatic music.
 
-Visual style
-
+### Visual style
 Use two complementary visual styles:
-
 Human scenes
-
 Realistic documentary-style photography. Natural light. Respectful, grounded, human, warm.
 Avoid:
 - Pity-based imagery
@@ -64,8 +55,7 @@ Avoid:
 - Stereotypical depictions of Africa or field work
 - Images that make field staff or communities look helpless
 
-Workflow / technology scenes
-
+### Workflow / technology scenes
 Premium dark-mode UI graphics inspired by ElevenLabs’ modern aesthetic.
 Visual direction:
 - Charcoal/navy background
@@ -77,8 +67,7 @@ Visual direction:
 - High contrast, uncluttered layouts
 Exact text labels should be added later in Canva, ElevenLabs Creative Studio, or another editor rather than relying on image generation to produce legible text.
 
-Ethical guardrails
-
+### Ethical guardrails
 The video should clearly communicate:
 - AI does not replace the storyteller
 - AI does not publish donor-facing content without human review
@@ -88,11 +77,9 @@ The video should clearly communicate:
 - Communities are represented with dignity and agency
 - Donor storytelling should build trust, not manipulate emotion
 
-Character Sheet
-
+## Character Sheet
 
 Field Coordinator
-
 A Kenyan male primary education coordinator in his early thirties. He is warm, capable, and visibly engaged with his students. He wears practical professional teaching attire suitable for a primary school environment: a button-down shirt or polo, simple trousers, and comfortable shoes.
 He is not portrayed as helpless or overwhelmed by the work itself. The stress comes from being asked to produce donor-ready communications on top of his actual field responsibilities.
 Visual consistency:
@@ -103,7 +90,6 @@ Visual consistency:
 - Avoid poverty-focused or pity-based imagery
 
 HQ Communications Lead
-
 A North American NGO communications or donor relations professional in her mid-forties. She works at a laptop in a modern but realistic nonprofit office setting.
 She is capable and committed. At the beginning, she appears under pressure because she has donor reporting deadlines, incomplete field materials, and translation needs. Later, she appears calmer and more focused because the new workflow gives her structure.
 Visual consistency:
@@ -114,21 +100,14 @@ Visual consistency:
 - Professional, realistic, not corporate-glossy
 
 Donor Couple
-
 A mixed-race North American couple in their sixties, seated at a kitchen table or comfortable home setting. They are engaged and thoughtful while reviewing a donor update. They should look informed and connected, not emotionally manipulated.
 
 Students
-
 Primary school-aged students in a respectful classroom setting. They are attentive, engaged, and shown as learners with agency. Avoid imagery that frames them as passive recipients of charity.
 
-Final Storyboard
+## Final Storyboard: From Field Update to Donor Story
 
-
-From Field Update to Donor Story
-
-
-Panel 1: Field Reality
-
+### Panel 1: Field Reality
 
 Story purpose
 
@@ -150,13 +129,9 @@ Visual style
 
 Realistic documentary photography. Warm natural light. Respectful, grounded, human.
 
-Add as post-production overlay
+Add as post-production overlay: Field team: delivering programs while capturing updates
 
-Field team: delivering programs while capturing updates
----
-
-Panel 2: The HQ Request
-
+### Panel 2: The HQ Request
 
 Story purpose
 
@@ -176,13 +151,9 @@ Visual style
 
 Realistic documentary photography. Split-screen composition. Both characters should feel equally competent and equally human.
 
-Add as post-production overlays
+Add as post-production overlays: Phone notification: Donor update needed in EnglishOffice label: Donor report due tomorrow
 
-Phone notification: Donor update needed in EnglishOffice label: Donor report due tomorrow
----
-
-Panel 3: Broken Current Workflow
-
+### Panel 3: Broken Current Workflow
 
 Story purpose
 
@@ -211,13 +182,9 @@ Visual style
 
 Premium dark-mode UI graphic. Charcoal/navy background. Clean white labels. Cyan-teal accent lines. Minimal, polished, and not cluttered.
 
-Add as post-production overlay
+Add as post-production overlay: The problem is not lack of effort. It is a broken workflow.
 
-The problem is not lack of effort. It is a broken workflow.
----
-
-Panel 4: Responsible New Workflow
-
+###  Panel 4: Responsible New Workflow
 
 Story purpose
 
@@ -242,13 +209,9 @@ Visual style
 
 Premium 3D minimalism. Charcoal/navy background. Frosted glass UI panels. Cyan-teal waveform lines. Clean white typography. Sleek animated line style.
 
-Add as post-production overlay
+Add as post-production overlay:AI accelerates production. Humans protect trust. 
 
-AI accelerates production. Humans protect trust.
----
-
-Panel 5: Recording and Human Review
-
+### Panel 5: Recording and Human Review
 
 Story purpose
 
@@ -273,13 +236,9 @@ Visual style
 
 Realistic documentary split-screen with subtle tech overlay elements. Human, calm, and credible.
 
-Add as post-production overlay
+Add as post-production overlay: Human-in-the-loop review: consent, safety, accuracy 
 
-Human-in-the-loop review: consent, safety, accuracy
----
-
-Panel 6: Multilingual Scale
-
+### Panel 6: Multilingual Scale
 
 Story purpose
 
@@ -304,13 +263,10 @@ Visual style
 
 Premium dark-mode UI. Charcoal/navy background. Cyan-teal waveform paths. Frosted glass cards. Clean white text. Minimal and polished.
 
-Add as post-production overlay
-
-The value is not only translation. It is preserving meaning, tone, and trust across languages.
+Add as post-production overlay: The value is not only translation. It is preserving meaning, tone, and trust across languages.
 ---
 
-Panel 7: Stakeholder Impact
-
+### Panel 7: Stakeholder Impact
 
 Story purpose
 
@@ -335,13 +291,9 @@ Visual style
 
 Warm realistic photography. Hopeful but grounded. Avoid exaggerated smiles or overly sentimental expressions.
 
-Add as post-production labels
+Add as post-production labels: Field teams: less communication burdenHQ teams: repeatable workflowDonors: clearer updatesCommunities: dignity and consent protected
 
-Field teams: less communication burdenHQ teams: repeatable workflowDonors: clearer updatesCommunities: dignity and consent protected
----
-
-Panel 8: Summary and Partnership Potential
-
+###  Panel 8: Summary and Partnership Potential
 
 Story purpose
 
@@ -369,9 +321,7 @@ Visual style
 
 Charcoal/navy background. Frosted glass panels. Thin cyan-teal connection lines. Clean white typography. Premium, polished, and credible.
 
-Add as post-production overlay
-
-From one field update to a scalable donor communication workflow.
+Add as post-production overlay: From one field update to a scalable donor communication workflow.
 
 ## Why this matters for ElevenLabs
 
