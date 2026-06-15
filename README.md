@@ -1,7 +1,7 @@
 # Field Stories to Donor Updates
 ## A responsible multilingual storytelling workflow for NGOs using ElevenLabs
 
-This repository is a lightweight proof of concept showing how NGOs could use ElevenLabs to transform consent-based field updates into timely, multilingual donor communications.
+This repository is a lightweight proof of concept showing how NGOs could use ElevenLabs to transform consent-based field updates into timely, multilingual donor communications. I have use ElevenLab tools to create a short [demo video](https://www.youtube.com/watch?v=nmBTPjOhoRU) to demonstrate this specfic user case. 
 
 The goal is not to automate human storytelling or fabricate emotional content. The goal is to design a human-in-the-loop workflow that helps NGOs transform raw field updates into clear, multilingual donor communications while reducing operational burden on field teams.
 
